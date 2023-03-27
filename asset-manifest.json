@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactecommerce/static/css/main.ea9460ae.css",
+    "main.js": "/reactecommerce/static/js/main.c94523fc.js",
+    "static/js/787.34115356.chunk.js": "/reactecommerce/static/js/787.34115356.chunk.js",
+    "index.html": "/reactecommerce/index.html",
+    "main.ea9460ae.css.map": "/reactecommerce/static/css/main.ea9460ae.css.map",
+    "main.c94523fc.js.map": "/reactecommerce/static/js/main.c94523fc.js.map",
+    "787.34115356.chunk.js.map": "/reactecommerce/static/js/787.34115356.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea9460ae.css",
+    "static/js/main.c94523fc.js"
+  ]
+}
